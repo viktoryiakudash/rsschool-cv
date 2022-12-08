@@ -1,22 +1,24 @@
 # Viktoryia Kudash
 ______
-#### Contact details
+### Contact details
 **Email**: victoriakudosh@gmail.com
+
 **LinkedIn**: linkedin.com/in/viktoryia-kudash-a0b46b83
+
 **Discord**: Vika (@viktoryiakudash)
 ______
-#### Summary
+### Summary
 Highly motivated and hardworking person aiming to convert customer needs into valuable
 products. Eager to broaden professional knowledge and study new domains. Result-oriented
 and sociable person that contributes to the team work and achievements.
-#### Skills
+### Skills
 * Prototyping tools: Figma, Axure, Balsamiq
 * Languages: English (C1), Polish (A1)
 * Software: Jira, Confluence, Miro, Diagrams.net
 * Notations: BPMN, UML
 * HTML5, CSS3 Basics
 
-#### Work experience
+### Work experience
 **2019-2022** IT Business Analyst
 * Communication with stakeholders and the development team on a daily basis
 * Requirements elicitation, analysis, documentation, validation, and management
@@ -30,9 +32,11 @@ cases)
 * Presenting demos to stakeholders
 * Reviewing and prioritizing backlog 
 
-#### Education
+### Education
 **2010-2015** Belarusian State Economic University, International Economic Relations
 Department
+
 **2019** IT Business Analysis
+
 **2022** RS School "JavaScript/Front-end"
 
