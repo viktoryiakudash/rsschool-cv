@@ -6,7 +6,7 @@ ______
 **LinkedIn**: [profile](https://www.linkedin.com/in/viktoryia-kudash-a0b46b83/) 
 
 **Discord**: Vika (@viktoryiakudash)
-_________________________
+_____
 
 ### Summary
 Highly motivated and hardworking person aiming to convert customer needs into valuable
