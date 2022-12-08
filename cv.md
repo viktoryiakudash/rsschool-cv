@@ -1,5 +1,5 @@
 # Viktoryia Kudash
-______
+---
 ### Contact details
 **Email**: [victoriakudosh@gmail.com](mailto:victoriakudosh@gmail.com)
 
@@ -7,8 +7,7 @@ ______
 
 **Discord**: Vika \(@viktoryiakudash\)
 
-Тест
-_____
+---
 
 ### Summary
 Highly motivated and hardworking person aiming to convert customer needs into valuable
