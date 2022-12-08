@@ -1,11 +1,11 @@
 # Viktoryia Kudash
 ______
 ### Contact details
-**Email**: victoriakudosh@gmail.com
+**Email**: [victoriakudosh@gmail.com](mailto:victoriakudosh@gmail.com)
 
 **LinkedIn**: [profile](https://www.linkedin.com/in/viktoryia-kudash-a0b46b83/) 
 
-**Discord**: Vika (@viktoryiakudash)
+**Discord**: Vika \(@viktoryiakudash\)
 _____
 
 ### Summary
