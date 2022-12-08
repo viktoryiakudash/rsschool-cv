@@ -3,10 +3,11 @@ ______
 ### Contact details
 **Email**: victoriakudosh@gmail.com
 
-**LinkedIn**: [profile](linkedin.com/in/viktoryia-kudash-a0b46b83/) 
+**LinkedIn**: [profile](https://www.linkedin.com/in/viktoryia-kudash-a0b46b83/) 
 
 **Discord**: Vika (@viktoryiakudash)
-______
+_________________________
+
 ### Summary
 Highly motivated and hardworking person aiming to convert customer needs into valuable
 products. Eager to broaden professional knowledge and study new domains. Result-oriented
