@@ -6,6 +6,8 @@ ______
 **LinkedIn**: [profile](https://www.linkedin.com/in/viktoryia-kudash-a0b46b83/) 
 
 **Discord**: Vika \(@viktoryiakudash\)
+
+Тест
 _____
 
 ### Summary
