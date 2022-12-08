@@ -3,7 +3,7 @@ ______
 ### Contact details
 **Email**: victoriakudosh@gmail.com
 
-**LinkedIn**: linkedin.com/in/viktoryia-kudash-a0b46b83
+**LinkedIn**: [profile](linkedin.com/in/viktoryia-kudash-a0b46b83)
 
 **Discord**: Vika (@viktoryiakudash)
 ______
