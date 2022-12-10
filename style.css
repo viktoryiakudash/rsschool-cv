@@ -1,0 +1,13 @@
+//external style css
+  <link rel="stylesheet" type="text/css" href="fileName.css"></link>
+//internal style css
+<style>
+	*{
+    	margin:0;
+        padding:0;
+        box-sizing:border-box;
+        text-decoration:none;        
+    }
+</style>
+//inline style css
+ <p style="color:blue;font-size:50px;">Hello World</p>
