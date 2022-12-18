@@ -1,13 +1,157 @@
-//external style css
-  <link rel="stylesheet" type="text/css" href="fileName.css"></link>
-//internal style css
-<style>
-	*{
-    	margin:0;
-        padding:0;
-        box-sizing:border-box;
-        text-decoration:none;        
-    }
-</style>
-//inline style css
- <p style="color:blue;font-size:50px;">Hello World</p>
+
+main {
+    display: flex;
+}
+
+body {
+  background: white;
+  box-sizing: border-box;
+  margin: 0px auto;
+  max-width: 960px;
+}
+
+div {
+  margin: 0px;
+  }
+
+a {
+    color:rgb(116, 191, 213);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(216, 225, 91);
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+
+h1 {
+  font-size: 36px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  border-bottom: 3px solid rgb(0, 92, 128);
+  color: rgb(0, 83, 128);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+li {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+  /* Header CSS */
+
+.header {
+display: flex;
+padding: 0px;
+background-color: rgb(175, 205, 217);
+}
+
+.header-avatar {
+  padding: 0px;
+}
+
+.header-avatar img {
+  width: 300px;
+}
+
+.header-avatar img {
+  border-radius: 60%;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 6px solid rgb(0, 92, 128);
+}
+
+.header-candidate-name {
+  text-align: center; 
+  margin-top: 80px;
+
+}
+
+.candidate-name {
+  border-bottom: 3px solid rgb(0, 92, 128);
+}
+
+/* Left Block CSS */
+
+.left-blocks {
+  float: left;
+  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(57, 72, 87);
+  color: rgb(195, 226, 224)
+}
+.left-blocks h3{
+  color: rgb(195, 226, 224);
+  border-bottom: 3px solid rgb(216, 225, 91);
+}
+
+.contacts-location {
+  margin: 0px;
+  display: flex;
+  max-width: 100%;
+  height: auto;
+  }
+
+/* Right Block CSS */
+
+.right-blocks {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 70%;
+  background-color: rgb(233, 237, 239);
+  
+}
+ pre {
+  background-color: rgb(159, 183, 186);
+ }
+.projects {
+  margin-bottom: 10px;
+}
+
+.projects a:hover {
+  color:rgb(10, 41, 73);
+  text-decoration: underline;
+}
+
+.projects a {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
+/* Footer CSS */
+
+.footer {
+display: flex;
+background-color: rgb(175, 205, 217);
+margin: auto;
+justify-content: space-between;
+}
+
+.image {
+  margin-left: 10px;
+  display: flex;
+  margin-right: 10px;
+}
+
+.footer-image {
+  max-width: 100%;
+  max-width: auto;
+}
+.footer-image img {
+  height: 50px;
+}
+
+.creation-year {
+  text-align: center;
+}
+.creation-year p {
+  color: rgb(15, 15, 51);
+  font-weight: bold;
+}
+
